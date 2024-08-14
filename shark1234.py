@@ -1,0 +1,2 @@
+print("num_apples= 20")
+print("num_oranges= 15")
