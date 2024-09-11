@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d5ae0a8e-6734-4f3c-b019-6578dd8a14fc" name="Changes" comment="initail commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shark1234.py" beforeDir="false" afterPath="$PROJECT_DIR$/shark1234.py" afterDir="false" />
-    </list>
+    <list default="true" id="d5ae0a8e-6734-4f3c-b019-6578dd8a14fc" name="Changes" comment="initail commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +18,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Jayden Little &lt;littljay000@warren.k12.in.us&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
@@ -62,7 +64,10 @@
       <option name="presentableId" value="Default" />
       <updated>1723644451455</updated>
       <workItem from="1723644458750" duration="664000" />
-      <workItem from="1723816983828" duration="865000" />
+      <workItem from="1723816983828" duration="908000" />
+      <workItem from="1724680623904" duration="206000" />
+      <workItem from="1724680848086" duration="35000" />
+      <workItem from="1726061198226" duration="324000" />
     </task>
     <task id="LOCAL-00001" summary="initail commit">
       <option name="closed" value="true" />
@@ -72,7 +77,31 @@
       <option name="project" value="LOCAL" />
       <updated>1723645077858</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="initail commit">
+      <option name="closed" value="true" />
+      <created>1723817862138</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1723817862138</updated>
+    </task>
+    <task id="LOCAL-00003" summary="initail commit">
+      <option name="closed" value="true" />
+      <created>1726061216964</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1726061216964</updated>
+    </task>
+    <task id="LOCAL-00004" summary="initail commit">
+      <option name="closed" value="true" />
+      <created>1726061341092</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1726061341092</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,5 +110,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initail commit" />
     <option name="LAST_COMMIT_MESSAGE" value="initail commit" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Variables$shark1234.coverage" NAME="shark1234 Coverage Results" MODIFIED="1723817829780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
